@@ -1,4 +1,4 @@
-youtube-transcript-api
+YouTubeTranscriptApi
 streamlit
 google-generativeai
 GOOGLE_API_KEY
