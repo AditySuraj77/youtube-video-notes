@@ -1,4 +1,4 @@
-YouTubeTranscriptApi
-streamlit
-google-generativeai
+YouTubeTranscriptApi==0.6.2
+streamlit==1.30.0
+google-generativeai==1.0.9
 GOOGLE_API_KEY
